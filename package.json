@@ -1,0 +1,27 @@
+{
+  "name": "tms_node_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelYermakov1/TMS_Node_01.git"
+  },
+  "author": "PavelYermakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PavelYermakov1/TMS_Node_01/issues"
+  },
+  "homepage": "https://github.com/PavelYermakov1/TMS_Node_01#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.1"
+  }
+}
